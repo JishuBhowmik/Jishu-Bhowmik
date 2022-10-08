@@ -1,13 +1,12 @@
-![I am front-end-developer](https://github.com/JishuBhowmik)
-
 
 <h1 align="center">Hi 👋, I'm front-end-developer</h1>
-<h3 align="center">front-end-developer.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/JishuBhowmik) 
 
 Welcome to my GitHub profile. I am a front-end-developer at Hablu Programmer Team. 
 Knock me: m.facebook.com/jishubhowmik018
+
+<ing align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></ing>
 
 Skills: PYTHON/ BOOTSTRAP/ Java / HTML / CSS /PHP
  
